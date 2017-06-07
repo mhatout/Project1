@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="commentSampels">
+        <item>I love watches and find them to be very elegant and useful so I think that ad about free watches is very relevant and I may consider using it soon plus that I find it somehow entertaining as well so I don\'t mind seeing it in my news feed </item>
+        <item>I find watches to be very elegant and has some kind of perfection and beauty so I think that this ad about online watches sale is very relevant and somehow useful as I may use it someday plus that I find it somehow entertaining to look at so I don\'t mind seeing it in my news feed </item>
+        <item>I began to learn android development not long ago and I may need to launch my own website to publish my portfolio so I find this ad about website online builder to be very relevant very handy and useful and gives me great deal of positive energy so I do want to see it in my news feed </item>
+        <item>I like to learn new skills so I find this ad about business management course to be somehow relevant and despite the fact that I won\'t use it as I don\'t have the time nor the money to do so .. I find the ad to be somehow entertaining and I don\'t mind seeing it in my news feed</item>
+        <item>As a Java and Android developer I think that this ad about computer science courses is very relevant and extremely useful plus that it give me a great deal of positive energy so I do want to see it in my news feed </item>
+        <item>As a former IT technician I find this ad about computer network course to be slightly relevant but I don\'t need to use it  although that I find its picture to be slightly entertaining and I don\'t mind if it was there in my news feed </item>
+        <item>As a former IT technician and recent android developer I find this ad about soft developer internship to be very relevant and despite the fact that I may not use it now I find it to be somehow entertaining to see so I don\'t mind seeing this ad in my news feed </item>
+        <item>I don\'t mind seeing that ad about English course in my news feed since while I find it somehow relevant as I like to learn new skills .. I don\'t find it useful at all because I have a good knowledge of English language and I don\'t need course in it so I don\'t mind seeing it .. either way </item>
+        <item>I like to learn new stuff and gain new skills so I find this ad about online MBA master degree to be somehow relevant but I will not use it as I think it\'s somehow misleading as well because I don\'t believe that such a thing exists and I think that they only seeking money so I don\'t want to see this ad in my news feed </item>
+        <item>I love to work on myself develop and gain new skills so I don\'t mind seeing this ad about MBA scholar ship since while I find it very relevant to me .. unfortunately I don\'t have the time to use it although that I think its picture is somehow entertaining </item>
+        <item>I love to work on myself .. develop and gain new skills so I don\'t mind seeing this ad about photography course since while I find it somehow relevant to me .. unfortunately I don\'t have the time to use it although that I think its picture is somehow entertaining </item>
+        <item>I like online shopping and think of it as a good time saver so I find this ad about online market website to be very relevant and as I used it before to sell my old car and to buy new one I find it very useful as well so I do want to see it in my news feed </item>
+        <item>I like online shopping because it saves me a lot of time so I find this ad about online store to be very relevant and I may consider using one of their offers soon plus that I find it somehow entertaining as well so I don\'t mind seeing it in my news feed </item>
+        <item>I\'m about to get married and I need to buy a lot of clothes so I find this ad about men clothes sale to be very relevant and extremely useful plus that I find it\'s picture to be somehow entertaining and I don\'t mind seeing it in my news feed </item>
+        <item>I don\'t mind seeing this ad about american goods delivery service provider in my news feed since while I find it somehow relevant because I like to shop online .. I don\'t think that I will use it  as I think that they will charge me so much although that I find it\'s picture to be slightly entertaining </item>
+        <item>I like online shopping so I find this ad abroad delivery service provider to be somehow relevant but I don\'t need to use it soon despite the fact that I find it slightly entertaining to see so I don\'t mind seeing it in my news feed </item>
+        <item>I hope that I will start my private business one day so I find that ad about private businesses funding service to be somehow relevant plus that I find its picture to be slightly entertaining and I don\'t mind seeing it in my news feed </item>
+        <item>I hope to start my own private business some day so I find this ad about postgraduate loans to be somehow relevant although that I will not use it because I\'m against bank loans I find its picture to be slightly entertaining so I don\'t mind to see it in my news feed </item>
+        <item>I love to travel and to see new stuff but I don\'t own a travel agency so since while I find this ad about travel agency promoting website somehow relevant I don\'t find it useful at all but I do like the picture of it and I think it\'s slightly entertaining so I don\'t mind seeing it in my news feed .. either way </item>
+        <item>I love to travel and see new stuff once a while so I think that this ad about travel agency is very relevant and I may use one of there offers one day plus that I find its picture to be slightly amusing so I don\'t mind seeing it in my news feed </item>
+        <item>I like to travel and to see new stuff so I find this ad about flights booking website to be somehow relevant and slightly entertaining to look at so I don\'t mind seeing it in my news feed </item>
+        <item>I would love to live in Australia so I think that this ad about Australia immigration consultant is somehow relevant but I will not use it as I find it to be somehow misleading as well because I think that they will demand money without a real service to provide so I don\'t want to see it in my news feed </item>
+        <item>It\'s always so good to listen to a good song so I find this ad about new song to be very relevant and some kind of entertaining to listen to so I don\'t mind seeing this ad in my news feed </item>
+        <item>I like computer and mobile games especially the strategic ones so I find this ad about online game to be very relevant and I may use it soon plus that I find it slightly entertaining to use so I don\'t mind seeing it in my news feed </item>
+        <item>I love to watch movies so I find this ad about movies ratings and recommendation website to be very relevant and I may consider using it sometime plus that I find its video to be somehow entertaining to watch so I don\'t mind to see it in my news feed </item>
+        <item>I like to read a good book from time to time so I find this ad about bookstore to be very relevant but unfortunately I can\'t use it because this bookstore isn\'t in my country although that I find it slightly entertaining to see so I don\'t mind seeing it in my news feed </item>
+        <item>I like TV shows so I don\'t mind seeing this ad about TV shows website in my news feed as I find it very relevant and I may consider using it in my free time plus that I find it slightly to see </item>
+        <item>I don\'t mind seeing this ad about humanitarian aids for south Sudan in my news feed because I find it somehow relevant and very touching although that unfortunately I can\'t help .. I think it slightly useful as it remind me of my brothers in humanity </item>
+        <item>As a former IT technician I find this ad about International communication equipment to be slightly relevant although that I can\'t use it as it\'s illegal in my country to work privately in that field so I don\'t find it useful to me at all and I will not miss it if it wasn\'t in my news feed </item>
+        <item>I really needed to open a new bank account but I didn\'t had the time to do so I think that this ad about opining bank account online is very relevant and I really need to use it so it\'s so useful as well and I do want to see it in my news feed </item>
+        <item>I hope to find a better job so I find this ad about job finding website to be very relevant and I may use it soon to apply for a new job plus that I find its picture to be slightly entertaining too so I don\'t mind seeing it in my news feed </item>
+        <item>As a former stocks trader and a former stocks loser I find this ad about stocks trading platform to be very relevant but I will not go back to that field of business so I don\'t need to use it at all and I don\'t care if it was or wasn\'t there in my news feed </item>
+        <item>The only reason why I find this ad about Facebook guide to be slightly relevant is that I find its picture somehow entertaining so I don\'t care if it was or wasn\'t there in my news feed </item>
+        </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -116,6 +151,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -237,6 +276,7 @@
             <enum name="auto" value="-1"/>
         </attr><attr format="boolean" name="behavior_hideable"/><attr format="boolean" name="behavior_skipCollapsed"/></declare-styleable>
     <declare-styleable name="ButtonBarLayout"><attr format="boolean" name="allowStacking"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout"><attr format="dimension" name="expandedTitleMargin"/><attr format="dimension" name="expandedTitleMarginStart"/><attr format="dimension" name="expandedTitleMarginTop"/><attr format="dimension" name="expandedTitleMarginEnd"/><attr format="dimension" name="expandedTitleMarginBottom"/><attr format="reference" name="expandedTitleTextAppearance"/><attr format="reference" name="collapsedTitleTextAppearance"/><attr format="color" name="contentScrim"/><attr format="color" name="statusBarScrim"/><attr format="reference" name="toolbarId"/><attr format="dimension" name="scrimVisibleHeightTrigger"/><attr format="integer" name="scrimAnimationDuration"/><attr name="collapsedTitleGravity">
             
             <flag name="top" value="0x30"/>
@@ -553,6 +593,9 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
     <dimen name="design_bottom_navigation_active_text_size">14sp</dimen>
@@ -723,6 +766,13 @@
     <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
         <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
+    </style>
+    <style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
     </style>
     <style name="Base.DialogWindowTitle.AppCompat" parent="android:Widget">
         <item name="android:maxLines">1</item>
@@ -1730,6 +1780,14 @@
         <item name="tabBackground">?attr/selectableItemBackground</item>
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+    </style>
+    <style name="CardView" parent="Base.CardView">
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
