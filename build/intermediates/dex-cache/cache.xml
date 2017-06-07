@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Muhammad\.android\build-cache\09fa9f583dec1fbe22645a73191baed9fa76b60e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_e5e6a5aca8341c86e5ed9e188128bbb45e33629c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Muhammad\.android\build-cache\0415075f9e4446d13338583334cf6d381b5681d9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -93,6 +102,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Muhammad\.android\build-cache\83bf44ea3af1da877446f5a21f0aaae4f93f98ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_8a708ff1859a40a631118a2ac0117df1400c2f49.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Muhammad\.android\build-cache\941b7491000710fafffb60957dfd1d4aabac48b1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -120,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Muhammad\.android\build-cache\48e85b061bc3d0bdae51240c84b7ad7554750c27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_a9539228b44cd667184341a3cf62132b33269885.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Muhammad\.android\build-cache\9e7aea298d780ef8a8a7f5917592cee5a027d5cf\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +171,15 @@
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Muhammad\.android\build-cache\8a111621cff718fa49659c340d1ee463a52771ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_0cf65e5fb7bc1b484abc8aa89578bd3cde8e348f.jar" />
     </item>
 
 </items>

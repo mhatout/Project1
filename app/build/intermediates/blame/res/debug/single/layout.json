@@ -372,6 +372,10 @@
         "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_comment.xml",
+        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\layout\\fragment_comment.xml"
+    },
+    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
