@@ -28,12 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        //setFragment();
-        String[] cArray = getResources().getStringArray(R.array.commentSampels);
-        RecyclerView mRecyclerView = (RecyclerView) findViewById(R.id.recycle_view);
-        mRecyclerView.setHasFixedSize(true);
-        //mRecyclerView.setLayoutManager( new LinearLayoutManager(this));
-        mRecyclerView.setAdapter(new MyAdapter(cArray));
+        setFragment();
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
