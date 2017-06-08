@@ -24,16 +24,8 @@ public class CommentFragment extends Fragment {
 
     public CommentFragment() {/* Required empty public constructor*/}
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment CommentFragment.
-     */
-    // TODO: Rename and change types and number of parameters
-    public static CommentFragment newInstance(String param1, String param2) {
+
+    public static CommentFragment newInstance() {
         return new CommentFragment();
     }
 
@@ -72,7 +64,7 @@ public class CommentFragment extends Fragment {
     @Override
     public void onDetach() {
         super.onDetach();
-        mListener = null;
+      //  mListener = null;
     }
 
     /**
@@ -85,7 +77,7 @@ public class CommentFragment extends Fragment {
      * "http://developer.android.com/training/basics/fragments/communicating.html"
      * >Communicating with Other Fragments</a> for more information.
      */
-    public interface OnFragmentInteractionListener {
+    private interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
     }

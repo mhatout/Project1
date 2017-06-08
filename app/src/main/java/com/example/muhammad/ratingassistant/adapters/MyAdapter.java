@@ -5,6 +5,7 @@ import android.view.*;
 import android.widget.*;
 import com.example.muhammad.ratingassistant.MainActivity;
 import com.example.muhammad.ratingassistant.R;
+import java.lang.*;
 
 
 
@@ -18,24 +19,23 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
      static class ViewHolder extends RecyclerView.ViewHolder {
         // each data item is just a string in this case
         private TextView mTextView;
-        private ViewHolder(TextView v) {
+
+        private ViewHolder(View v) {
             super(v);
-            mTextView = v;
+            mTextView = (TextView) v.findViewById(R.id.my_text_view);
         }
     }
 
     // Provide a suitable constructor (depends on the kind of dataset)
     public MyAdapter(String[] myDataset) {
-        commentArray = myDataset;
+          commentArray = myDataset;
     }
 
     // Create new views (invoked by the layout manager)
     @Override
-    public MyAdapter.ViewHolder onCreateViewHolder(ViewGroup parent,
-                                                   int viewType) {
+    public ViewHolder onCreateViewHolder(ViewGroup parent,int viewType) {
         // create a new view
-        TextView v = (TextView) LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.card_view, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(android.R.layout.simple_selectable_list_item, parent, false);
         // set the view's size, margins, paddings and layout parameters
         return new ViewHolder(v);
     }

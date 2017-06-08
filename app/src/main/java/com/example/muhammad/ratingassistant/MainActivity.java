@@ -22,27 +22,18 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private List<String> comments;
-    private String[] cArray;
-    private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter mAdapter;
-    private RecyclerView.LayoutManager mLayoutManager;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        comments = Arrays.asList(getResources().getStringArray(R.array.commentSampels));
-        cArray = comments.toArray(new String[comments.size()]);
-        setFragment();
-        mRecyclerView = (RecyclerView) findViewById(R.id.recycle_view);
+        //setFragment();
+        String[] cArray = getResources().getStringArray(R.array.commentSampels);
+        RecyclerView mRecyclerView = (RecyclerView) findViewById(R.id.recycle_view);
         mRecyclerView.setHasFixedSize(true);
-        mLayoutManager = new LinearLayoutManager(this);
-        mRecyclerView.setLayoutManager(mLayoutManager);
-        mAdapter = new MyAdapter(cArray);
-        mRecyclerView.setAdapter(mAdapter);
+        //mRecyclerView.setLayoutManager( new LinearLayoutManager(this));
+        mRecyclerView.setAdapter(new MyAdapter(cArray));
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     private void setFragment(){
 
         CommentFragment fragment = new CommentFragment();
-        getSupportFragmentManager().beginTransaction().replace(R.id.fragmentContainer , fragment).addToBackStack(null)
+        getSupportFragmentManager().beginTransaction().add(R.id.fragmentContainer , fragment).addToBackStack(null)
                 .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE).commit();
     }
 
