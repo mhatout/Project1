@@ -33,3 +33,8 @@ dependencies {
     compile 'com.google.android.gms:play-services-plus:11.0.0'
     testCompile 'junit:junit:4.12'
 }
+repositories {
+    maven {
+        url 'https://maven.google.com'
+    }
+}

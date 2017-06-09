@@ -44,7 +44,7 @@ public class CommentFragment extends Fragment {
         // Inflate the layout for this fragment
       View v = inflater.inflate(R.layout.fragment_comment, container, false);
         RecyclerView mRecyclerView = (RecyclerView) v.findViewById(R.id.recycle_view);
-        mRecyclerView.setHasFixedSize(true);
+        //mRecyclerView.setHasFixedSize(true);
         mRecyclerView.setLayoutManager( new LinearLayoutManager(getActivity()));
         mRecyclerView.setAdapter(new MyAdapter(MainActivity.cArray2));
         return v;
