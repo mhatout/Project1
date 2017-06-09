@@ -1,5 +1,7 @@
 package com.example.muhammad.ratingassistant;
 
+import android.content.ClipboardManager;
+import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -25,7 +27,6 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements CommentFragment.OnFragmentInteractionListener {
 
-    private String[] cArray;
     public static String[]cArray2;
     //public String[] cArray = {"ahmed" , "mohamed" , "ali"};
     @Override
@@ -34,9 +35,8 @@ public class MainActivity extends AppCompatActivity implements CommentFragment.O
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        cArray = getResources().getStringArray(R.array.commentSampels);
+        String[]cArray = getResources().getStringArray(R.array.commentSampels);
         cArray2 = cArray;
-        Log.d("test", cArray2[0]);
         setFragment();
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity implements CommentFragment.O
     public void onFragmentInteraction(Uri uri) {
 
     }
+
 
 
     /* public boolean onCreateOptionsMenu(Menu menu) {

@@ -46,17 +46,8 @@ public class CommentFragment extends Fragment {
         // Inflate the layout for this fragment
       View v = inflater.inflate(R.layout.fragment_comment, container, false);
         RecyclerView mRecyclerView = (RecyclerView) v.findViewById(R.id.recycle_view);
-<<<<<<< HEAD
-        //String[] cArray = getResources().getStringArray(R.array.commentSampels);
-        //mRecyclerView.setHasFixedSize(true);
-        //mRecyclerView.setLayoutManager( new LinearLayoutManager(getActivity()));
-        //mRecyclerView.setAdapter(new MyAdapter(test));
-
-=======
-        //mRecyclerView.setHasFixedSize(true);
         mRecyclerView.setLayoutManager( new LinearLayoutManager(getActivity()));
         mRecyclerView.setAdapter(new MyAdapter(MainActivity.cArray2));
->>>>>>> 8b5c06de66c21540296edcda6110d3a406c233cf
         return v;
     }
 

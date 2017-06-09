@@ -1,5 +1,6 @@
 package com.example.muhammad.ratingassistant.adapters;
 
+import android.app.Activity;
 import android.content.ClipboardManager;
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -51,10 +52,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
 
             @Override
             public boolean onLongClick(View v) {
-                ClipboardManager clipboard = getSystemService(Context.CLIPBOARD_SERVICE);
-                android.content.ClipData clip = android.content.ClipData.newPlainText("Copied Text", holder.mTextView.getText().toString());
-                clipboard.setPrimaryClip(clip);
-
+               performCopy(holder.mTextView.getText().toString());
                 Toast.makeText(v.getContext(),"Text Copied" , Toast.LENGTH_LONG).show();
                 return true;
             }
@@ -66,5 +64,10 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     @Override
     public int getItemCount() {
         return MainActivity.cArray2.length;
+    }
+    private void performCopy(String text){
+        ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+        android.content.ClipData clip = android.content.ClipData.newPlainText("Copied Text",text);
+        clipboard.setPrimaryClip(clip);
     }
 }
