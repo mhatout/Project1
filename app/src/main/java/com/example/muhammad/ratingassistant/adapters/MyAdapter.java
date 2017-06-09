@@ -10,7 +10,7 @@ import java.lang.*;
 
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
-   private String [] commentArray;
+  // private String [] commentArray;
 
 
     // Provide a reference to the views for each data item
@@ -28,14 +28,14 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
 
     // Provide a suitable constructor (depends on the kind of dataset)
     public MyAdapter(String[] myDataset) {
-          commentArray = myDataset;
+          MainActivity.cArray2 = myDataset;
     }
 
     // Create new views (invoked by the layout manager)
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent,int viewType) {
         // create a new view
-        View v = LayoutInflater.from(parent.getContext()).inflate(android.R.layout.simple_selectable_list_item, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.card_view, parent, false);
         // set the view's size, margins, paddings and layout parameters
         return new ViewHolder(v);
     }
@@ -45,13 +45,13 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     public void onBindViewHolder(ViewHolder holder, int position) {
         // - get element from your dataset at this position
         // - replace the contents of the view with that element
-        holder.mTextView.setText(commentArray[position]);
+        holder.mTextView.setText(MainActivity.cArray2[position]);
 
     }
 
     // Return the size of your dataset (invoked by the layout manager)
     @Override
     public int getItemCount() {
-        return commentArray.length;
+        return MainActivity.cArray2.length;
     }
 }
