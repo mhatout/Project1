@@ -256,6 +256,14 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view.xml",
+        "source": "D:\\Android\\AS projects\\app\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_comment.xml",
+        "source": "D:\\Android\\AS projects\\app\\src\\main\\res\\layout\\fragment_comment.xml"
+    },
+    {
         "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
