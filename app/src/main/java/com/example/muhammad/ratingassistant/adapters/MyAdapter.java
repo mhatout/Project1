@@ -35,7 +35,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent,int viewType) {
         // create a new view
-        View v = LayoutInflater.from(parent.getContext()).inflate(android.R.layout.simple_selectable_list_item, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.card_view, parent, false);
         // set the view's size, margins, paddings and layout parameters
         return new ViewHolder(v);
     }

@@ -23,6 +23,8 @@ import com.example.muhammad.ratingassistant.adapters.MyAdapter;
  */
 public class CommentFragment extends Fragment {
 
+    private String[] test = {"muhammad" , "Ahmed" , "ali"};
+
     private OnFragmentInteractionListener mListener;
 
     public CommentFragment() {/* Required empty public constructor*/}
@@ -43,10 +45,10 @@ public class CommentFragment extends Fragment {
         // Inflate the layout for this fragment
       View v = inflater.inflate(R.layout.fragment_comment, container, false);
         RecyclerView mRecyclerView = (RecyclerView) v.findViewById(R.id.recycle_view);
-        String[] cArray = getResources().getStringArray(R.array.commentSampels);
-        mRecyclerView.setHasFixedSize(true);
-        mRecyclerView.setLayoutManager( new LinearLayoutManager(getActivity()));
-        mRecyclerView.setAdapter(new MyAdapter(cArray));
+        //String[] cArray = getResources().getStringArray(R.array.commentSampels);
+        //mRecyclerView.setHasFixedSize(true);
+        //mRecyclerView.setLayoutManager( new LinearLayoutManager(getActivity()));
+        //mRecyclerView.setAdapter(new MyAdapter(test));
 
         return v;
     }
