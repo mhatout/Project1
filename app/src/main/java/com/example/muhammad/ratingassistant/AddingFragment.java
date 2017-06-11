@@ -45,11 +45,10 @@ public class AddingFragment extends Fragment {
         });
         return v;
     }
-    @Override
     public void onAttach(Context context) {
         super.onAttach(context);
     }
-    @Override
+
     public void onDetach() {
         super.onDetach();
     }
