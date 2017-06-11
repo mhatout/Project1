@@ -32,12 +32,13 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         return holder;
     }
     @Override
-    public void onBindViewHolder(ViewHolder holder, int position) {
-        position = CDFragment.p;
+    public void onBindViewHolder(final ViewHolder holder, int position) {
+
         holder.mTextView.setText(MainActivity.cArray2.get(position));
         holder.mTextView.setOnLongClickListener(new View.OnLongClickListener(){
             @Override
             public boolean onLongClick(View v) {
+                CDFragment.p = holder.getAdapterPosition();
                 CDFragment.view = v;
                 MainActivity.fragment.setCopyFragment();
                 return true;

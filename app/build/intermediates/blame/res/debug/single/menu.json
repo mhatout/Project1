@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "D:\\Android\\AS projects\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
