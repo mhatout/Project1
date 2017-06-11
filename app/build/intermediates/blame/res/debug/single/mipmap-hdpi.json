@@ -4,15 +4,7 @@
         "source": "D:\\Android\\AS projects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "D:\\Android\\AS projects\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

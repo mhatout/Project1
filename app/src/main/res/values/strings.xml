@@ -43,4 +43,7 @@
     <string name="add_comment">Add Comment</string>
     <string name="button_save">Save</string>
     <string name="button_exit">Exit</string>
+    <string name="please_choose">Please choose</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
 </resources>

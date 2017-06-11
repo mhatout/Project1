@@ -4,24 +4,28 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\5f89f05c438996c6b2dacf2daef73740dc3db6cc\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -32,28 +36,12 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
@@ -64,8 +52,16 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
@@ -76,40 +72,48 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -120,28 +124,36 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\5f89f05c438996c6b2dacf2daef73740dc3db6cc\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -152,52 +164,36 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -220,239 +216,15 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\5f89f05c438996c6b2dacf2daef73740dc3db6cc\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\cd4b075914d454d5191f55ff6f6ae2efea35a159\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\5f89f05c438996c6b2dacf2daef73740dc3db6cc\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\cf3a515c11acc45bfea4237f583d805888990058\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\c4b2d85ffc387be9a5446d503726ed71cf5076f6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Muhammad\\.android\\build-cache\\5f89f05c438996c6b2dacf2daef73740dc3db6cc\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "D:\\Android\\AS projects\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     }
 ]

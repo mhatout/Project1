@@ -1,30 +1,15 @@
 package com.example.muhammad.ratingassistant;
 
-import android.content.ClipboardManager;
-import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
-
-import com.example.muhammad.ratingassistant.adapters.MyAdapter;
-import com.example.muhammad.ratingassistant.fragments.AddingFragment;
-import com.example.muhammad.ratingassistant.fragments.CommentFragment;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     public static CommentFragment fragment;
@@ -49,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     private void setFragment(){
-
         fragment = new CommentFragment();
         FragmentManager frag = getSupportFragmentManager();
         FragmentTransaction fragTransaction = frag.beginTransaction();

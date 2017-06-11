@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Muhammad\.android\build-cache\12b9b3f64ab0e30f034991e4de398d61ba40bb8c\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\Android\AS projects\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fc6c0dae1d2dbb08ba3da08479ef40b501af1485">
-        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_213b3aba3d495f5af5803be89819122d818df4aa.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\AS projects\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_23396d22289395b3b356298063bb2c40242b948e\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Muhammad\.android\build-cache\cf3a515c11acc45bfea4237f583d805888990058\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="D:\Android\AS projects\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
-        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_732d01f2cdb547b6ba7224b24ba6bd38c15c04fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Muhammad\.android\build-cache\d69fb7b025ef85a7dea33269c539759ffbbd852b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
-        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_4fb7837f16f825ec3a39531541900340dedc79e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Muhammad\.android\build-cache\377f380a9e8ae38c58f7ba05db536de19ef289e6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
-        <dex dex="C:\Users\Muhammad\AndroidStudioProjects\Ratingassistant\app\build\intermediates\pre-dexed\debug\classes_cf89608702644879c7f63c99b22b2ae467c37f8f.jar" />
+        sha1="c21d41287eb9e9c02892b81958387cc8add5b9c7">
+        <dex dex="D:\Android\AS projects\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82db0fc0762d2ff8b66edaed50470d245953a58d\classes.dex" />
     </item>
 
 </items>
