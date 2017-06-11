@@ -40,4 +40,7 @@
 
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="button_save">Save</string>
+    <string name="button_exit">Exit</string>
 </resources>

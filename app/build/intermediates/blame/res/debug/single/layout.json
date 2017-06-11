@@ -88,6 +88,10 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\8ba1e6ac5e7e24aee563261586c99591a4b13951\\output\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
@@ -230,6 +234,10 @@
     {
         "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Muhammad\\.android\\build-cache\\904062d21edf6cd62a52e8554daef93c4fbe73ec\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_adding.xml",
+        "source": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\src\\main\\res\\layout\\fragment_adding.xml"
     },
     {
         "merged": "C:\\Users\\Muhammad\\AndroidStudioProjects\\Ratingassistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
